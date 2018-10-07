@@ -1,0 +1,9 @@
+tensorflow==1.11.0
+numpy>=1.8.2
+scipy>=0.13.3
+nltk
+spacy
+gensim
+kenlm
+matplotlib
+scikit-learn
